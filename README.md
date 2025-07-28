@@ -1,6 +1,6 @@
-OpenAI API Text-Summarization
+# OpenAI API Text-Summarization
 
-Document Summarizer
+# Document Summarizer
 
 This repository contains a Python script that utilizes OpenAI's GPT model to summarize the content of a text document. The script reads a document from a file, sends its content to the OpenAI API, and returns a concise summary of the text.
 
@@ -106,11 +106,11 @@ if __name__ == "__main__":
     else:
         print("Failed to read the document. Please check the file path.")
         
-Example Input
+# Example Input
 
 Artificial Intelligence (AI) refers to the field of computer science dedicated to building systems capable of performing tasks that would typically require human intelligence. These tasks include reasoning, learning, problem-solving, perception, and language understanding.AI encompasses various subfields like machine learning (ML), where systems learn from data to improve performance over time, and deep learning, a subset of ML that uses neural networks to model complex patterns. AI is used in a wide range of applications, from virtual assistants and autonomous vehicles to medical diagnostics and robotics.The potential of AI is vast, revolutionizing industries such as healthcare, finance, and manufacturing. However, AI also raises concerns around ethics, job displacement, and privacy, prompting ongoing discussions about its responsible development and use.
 
-Example Output
+# Example Output
 
 Summarizing the document...
 
